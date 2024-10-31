@@ -1,3 +1,32 @@
+<h1>Device Registration Frontend</h1>
+
+<p>
+  This repository contains the frontend implementation of the Device Registration and Availability Check project. 
+  It provides a user-friendly interface for registering network devices and checking their reachability status.
+</p>
+
+<h2>Key Features</h2>
+
+<ul>
+  <li>
+    <strong>Device Registration Form:</strong> Allows users to add devices with fields for 
+    <em>Device Name</em>, <em>IP Address</em>, and <em>Password</em>.
+  </li>
+  <li>
+    <strong>Device Availability Check Form:</strong> Enables users to verify device reachability and password correctness.
+  </li>
+  <li>
+    <strong>Validation:</strong> Includes input validation for required fields, IP format verification, and password strength.
+  </li>
+  <li>
+    <strong>Reachability Logic:</strong> Uses a simulated reachability logic based on random numbers to display 
+    <em>“Reachable”</em> or <em>“Not Reachable”</em> results.
+  </li>
+</ul>
+
+<p>
+  This React application is styled for a seamless user experience and includes error handling and visual feedback for interactions.
+</p>
 
 # Getting Started with Create React App
 
